@@ -1,0 +1,9 @@
+{
+  "defaultCommand": "args",
+  "commands": {
+    "args": {
+      "scriptType": "node",
+      "scriptPath": "index.js"
+    }
+  }
+}
